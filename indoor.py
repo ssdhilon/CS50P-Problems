@@ -3,5 +3,5 @@
 # Prompt user for name and print name as lower case preserving all white spaces
 
 #indoor voice
-name = str(input("what's your name? "))
-print(f'Your name is {name.lower()}')
+name = str(input("What's your name? "))
+print(name.lower())
